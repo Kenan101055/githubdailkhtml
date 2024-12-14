@@ -1,0 +1,28 @@
+
+h1{
+color: red;
+background-color: bisque;
+text-align: center;
+}
+h2{
+color: green;
+background-color: greenyellow;
+text-align: right;
+}
+p{
+color: black;
+background-color: #ffffff;
+font-family: Tiny5;
+}
+body{
+    background-color: aqua;
+}
+table, td, th {
+    border: 3px solid darkgray !important;
+    border-radius: 10px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    text-align: center !important;
+    padding: 10px !important;
+    }
+    

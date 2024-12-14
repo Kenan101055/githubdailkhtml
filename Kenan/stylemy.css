@@ -1,0 +1,17 @@
+.hi{
+    background-color: black;color: white;
+}
+.erm{
+    font-family: 'Jolly Lodger';
+}
+.oof{
+    text-align: center;
+}
+.fortable {
+    border: 3px solid black;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding: 10px;
+    }

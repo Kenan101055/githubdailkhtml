@@ -1,0 +1,21 @@
+.div{
+    background-color: #e5e5e5;
+    border: 1px solid #e5e5e5;
+    width: 698px;
+    height: 698px;
+    display: flex;
+} 
+  .div2{
+    background-color: #e5e5e5;
+    border: 1px solid #e5e5e5;
+    border-radius: 49px;
+ width: 698px;
+    height: 698px;
+ display: flex;
+
+}   
+
+
+.div4{
+ 
+}

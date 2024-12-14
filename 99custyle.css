@@ -1,0 +1,32 @@
+ol{
+    color: blue;
+}
+ul{
+    color: red;
+}
+.th1{
+    background-color: aqua;
+    color: rgb(255, 255, 255, );
+}
+.th2{
+
+background-color: chocolate;
+color: rgb(255, 255, 255, )
+}
+.user, table, tr, th, td{
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+.user{
+    border-collapse: collapse;
+}
+.stop{
+    padding: 30px 50px;
+    background-color: red;
+    display: inline-block;
+    margin-top: 100px;
+    margin-right: 898px;
+    margin-left: 898px;
+    margin-bottom: 100px;
+}
